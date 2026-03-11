@@ -7,7 +7,7 @@ Trash for Goods
 
 <style>
 body{
-    font-family: Georgia;
+    font-family: Franklin Gothic;
     background:#868282;
     text-align:center;
     margin-top:100px;
