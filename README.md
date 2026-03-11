@@ -54,7 +54,7 @@ button{
 
 <br>
 
-<button onclick="PislitaKoKol()">Redeem</button>
+<button onclick="redeemCode()">Pindotakokol</button>
 
 <p id="message"></p>
 
