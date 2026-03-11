@@ -1,4 +1,4 @@
-# Recyclink
+Trash for Goods
 <Trash for Goods>
 <html lang="en">
 <head>
@@ -54,7 +54,7 @@ button{
 
 <br>
 
-<button onclick="redeemCode()">Pindotakokol</button>
+<button onclick="redeemCode()">Redeem</button>
 
 <p id="message"></p>
 
